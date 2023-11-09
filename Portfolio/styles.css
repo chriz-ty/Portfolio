@@ -17,3 +17,7 @@
 a:hover{
     background-color: #93aabd !important;
 }
+
+.navbar{
+    padding: 0.5rem 0.7rem;
+}
