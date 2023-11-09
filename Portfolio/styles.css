@@ -1,0 +1,19 @@
+.bg-secondary {
+    background-color: #8da1b2 !important;
+}
+
+.btn-primary{
+    background-color: #5d7c97 !important;
+    border-color: #5d7c97;
+}
+.body {
+    overflow: hidden;
+}
+
+.card:hover{
+    background-color: #93aabd !important;
+}
+
+a:hover{
+    background-color: #93aabd !important;
+}
